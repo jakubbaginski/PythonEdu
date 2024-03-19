@@ -4,11 +4,16 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="0124ad9f-1854-44f9-98f0-da189f979ffe" name="Changes" comment="Python Edu" />
+    <list default="true" id="0124ad9f-1854-44f9-98f0-da189f979ffe" name="Changes" comment="Python Edu">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Merge.Settings">
+    <option name="BRANCH" value="origin/main" />
   </component>
   <component name="Git.Settings">
     <option name="PUSH_TAGS">
@@ -21,8 +26,6 @@
   </component>
   <component name="GitHubPullRequestSearchHistory"><![CDATA[{
   "lastFilter": {
-    "state": "OPEN",
-    "assignee": "jakubbaginski"
   }
 }]]></component>
   <component name="GithubPullRequestsUISettings">
@@ -97,7 +100,15 @@
       <option name="project" value="LOCAL" />
       <updated>1710807604407</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="Python Edu">
+      <option name="closed" value="true" />
+      <created>1710808110141</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1710808110141</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="UpdateCopyrightCheckinHandler">
